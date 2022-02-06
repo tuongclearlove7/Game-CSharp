@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dark
+  - jump
+  - jump2
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg-sand
+    uniqueID: 863638539
+    locked: 0
+  - name: sand
+    uniqueID: 831119679
+    locked: 0
+  - name: bg
+    uniqueID: 2488818641
+    locked: 0
+  - name: background
+    uniqueID: 587526317
+    locked: 0
+  - name: ground
+    uniqueID: 1456278465
+    locked: 0
+  - name: Forceground
+    uniqueID: 2276680979
+    locked: 0
+  - name: dark
+    uniqueID: 1587729811
+    locked: 0
+  - name: Font
+    uniqueID: 1988038849
+    locked: 0
+  - name: tree
+    uniqueID: 423105839
+    locked: 0
+  - name: dark2
+    uniqueID: 1237452715
+    locked: 0
+  - name: Player
+    uniqueID: 2588822257
+    locked: 0
+  - name: ground2
+    uniqueID: 3956496243
+    locked: 0
